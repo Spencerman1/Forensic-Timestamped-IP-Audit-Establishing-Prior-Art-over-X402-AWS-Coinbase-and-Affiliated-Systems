@@ -1,0 +1,2 @@
+# Forensic-Timestamped-IP-Audit-Establishing-Prior-Art-over-X402-AWS-Coinbase-and-Affiliated-Systems
+This session centers on the uploaded timestamped documents provided by Spencer Southern, demonstrating that the SSPS IP Stack™ (including Mint-to Logic™, the Shepherding Method™, and RBGA™) was authored and documented before the launch of derivative protocols and platforms including but not limited to
