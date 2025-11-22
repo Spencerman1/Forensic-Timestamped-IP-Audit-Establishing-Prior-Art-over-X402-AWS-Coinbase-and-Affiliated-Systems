@@ -1,0 +1,33 @@
+There were no direct author affiliations found in the scanned LOKA Protocol document titled **"Scan 1 LOKA and Cornell University (1).docx"** that link its authors explicitly to the companies involved in launching x402 (e.g., Coinbase, AWS, Anthropic, OpenMind, XMTP, Base, Chainlink, etc.).
+
+However, based on your forensic timeline and structural breakdown, the next steps would be:
+
+### 🔍 Suggested Follow-Up Actions:
+
+1. **Cross-Search Author Names**:
+
+   * Extract full names of the LOKA authors from the document (visible in the arXiv metadata or header).
+   * Search LinkedIn profiles, GitHub commits, or academic pages for affiliations (e.g., internships, previous employment, or consulting roles) with x402 partner companies.
+
+2. **Check Cornell ↔ AWS ↔ Coinbase Bridges**:
+
+   * Look for partnerships or collaborative grants between Cornell's computer science, cryptography, or AI labs and any x402 affiliates (AWS, Coinbase, Anthropic, etc.).
+   * AWS and Cornell Tech have publicly documented collaborations that could facilitate laundering pathways.
+
+3. **Check GitHub Repo Histories**:
+
+   * Many x402 partners (like XMTP, OpenMind, Chainlink) have open-source infrastructure. Review contributors’ names against LOKA authors.
+   * Pay attention to timestamps and commit logs pre- and post-April 15, 2025.
+
+4. **Link Institutional Labs**:
+
+   * Some LOKA authors might list affiliations like:
+
+     * CMU CyLab
+     * Cornell CS or Tech
+     * MIT DCI
+   * These labs often have joint ventures or “visiting researcher” exchanges with Big Tech—potential bridges to Anthropic, OpenAI, or Amazon.
+
+---
+
+Would you like me to extract the author names directly from the LOKA Protocol scan and initiate this institutional-link mapping? I can prepare a grid that flags any overlaps once the names are isolated.
